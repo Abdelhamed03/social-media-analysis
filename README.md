@@ -1,21 +1,21 @@
-# Social Media Marketing Performance Analysis
+# Social Media Marketing Performance Analysis  
 
-## Project Overview
-This project analyzes social media marketing performance data to derive actionable business insights.
+## Overview  
+This project analyzes social media marketing performance data to uncover key engagement trends, optimize content strategies, and improve ROI. It provides data-driven insights to enhance marketing effectiveness through various visualizations and performance metrics.  
 
-## Project Structure
-- `data/`: Contains the datasets
-- `notebooks/`: Jupyter notebooks for analysis
-- `src/`: Source code for the project
+## What This Project Shows  
+- **Engagement Trends**: Analyzes how users interact with different types of posts.  
+- **Best Performing Content**: Identifies which content types generate the highest engagement.  
+- **Optimal Posting Times**: Determines the best times to post based on user activity.  
+- **Paid vs. Organic Reach**: Compares engagement levels between paid and organic posts.  
 
-## Setup
-1. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
+## Project Structure  
+- **`data/`** – Contains raw and processed datasets.  
+- **`notebooks/`** – Jupyter notebooks with exploratory data analysis and visualizations.  
+- **`src/`** – Python scripts for data cleaning, analysis, and reporting.  
 
-## Analysis Goals
-- Analyze engagement patterns
-- Identify best-performing content types
-- Determine optimal posting times
-- Calculate ROI metrics
+## Setup  
+1. Clone the repository:  
+   ```bash
+   git clone <repo-url>
+   cd social_media_analysis
