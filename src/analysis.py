@@ -47,7 +47,7 @@ def analyze_all(df):
     axes[1,1].set_xlabel('Average Engaged Users', fontsize=12)
     axes[1,1].set_ylabel('Category', fontsize=12)
 
-    # Adjust layout to prevent overlap
+    
     plt.tight_layout(pad=3.0)
 
     # Display the plot
